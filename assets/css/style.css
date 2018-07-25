@@ -4,3 +4,7 @@
 .border {
     border: black 1px solid;
 }
+.format {
+    margin: 0px 30px 0px 30px;
+    border-bottom: black 1px solid;
+}
